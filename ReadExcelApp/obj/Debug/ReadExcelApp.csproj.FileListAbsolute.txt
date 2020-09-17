@@ -1,0 +1,17 @@
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\bin\Debug\ReadExcelApp.exe.config
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\bin\Debug\ReadExcelApp.exe
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\bin\Debug\ReadExcelApp.pdb
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\obj\Debug\ReadExcelApp.MainForm.resources
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\obj\Debug\ReadExcelApp.Properties.Resources.resources
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\obj\Debug\ReadExcelApp.csproj.GenerateResource.cache
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\obj\Debug\ReadExcelApp.csproj.CoreCompileInputs.cache
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\obj\Debug\ReadExcelApp.exe
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\obj\Debug\ReadExcelApp.pdb
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\bin\Debug\ExcelDataReader.DataSet.dll
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\bin\Debug\ExcelDataReader.dll
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\bin\Debug\ExcelDataReader.pdb
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\bin\Debug\ExcelDataReader.xml
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\bin\Debug\ExcelDataReader.DataSet.pdb
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\bin\Debug\ExcelDataReader.DataSet.xml
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\obj\Debug\ReadExcelApp.csproj.CopyComplete
+D:\WorkPlace\ReadExcelApp\ReadExcelApp\obj\Debug\ReadExcelApp.csprojAssemblyReference.cache
